@@ -4,5 +4,13 @@
         <members>FitAnalysis__c</members>
         <name>CustomObject</name>
     </types>
+    <types>
+        <members>FitAnalysis__c-FitAnalysis Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>FitAnalysis__c</members>
+        <name>Workflow</name>
+    </types>
     <version>15.0</version>
 </Package>
